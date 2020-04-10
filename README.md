@@ -1,0 +1,1 @@
+This is Quotz's first git project!
